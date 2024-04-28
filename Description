@@ -1,0 +1,10 @@
+Interactive Student Record Management with React
+
+This React application provides a user-friendly interface for managing student records. It includes:
+
+Clear and Organized Table: View student information like names, grades, or IDs in a well-structured format.
+Seamless Student Addition: Easily add new students to the table using dedicated buttons.
+Effortless Student Removal: Remove students from the record with designated buttons, maintaining accurate data.
+Intuitive Buttons for Action: Multiple buttons guide users through adding, deleting, and potentially other functionalities.
+
+This React table empowers you to efficiently manage student data, adding and removing entries with ease.
